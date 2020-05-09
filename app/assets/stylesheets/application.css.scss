@@ -16,3 +16,7 @@
 
 @import "bootstrap-sprockets";
 @import "bootstrap";
+
+.panel-heading.pin_image img {
+    max-width: 100%;
+}
